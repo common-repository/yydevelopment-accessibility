@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hebrew\n"
+"POT-Creation-Date: 2024-07-16 21:18+0300\n"
+"PO-Revision-Date: 2024-07-16 21:18+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: front-end/front-end-output.php:402 front-end/front-end-output.php:405
+msgid "Accessibility"
+msgstr "כלי נגישות"
+
+#: front-end/front-end-output.php:406
+msgid "Increase Font Size"
+msgstr "הגדלת גודל פונט"
+
+#: front-end/front-end-output.php:407
+msgid "Decrease Font Size"
+msgstr "הקטנת גודל פונט"
+
+#: front-end/front-end-output.php:408
+msgid "Light contrast"
+msgstr "ניגודיות נמוכה"
+
+#: front-end/front-end-output.php:409
+msgid "High contrast"
+msgstr "ניגודיות גבוהה"
+
+#: front-end/front-end-output.php:410
+msgid "Highlight Links"
+msgstr "הדגשת קישורים"
+
+#: front-end/front-end-output.php:411
+msgid "Reset Settings"
+msgstr "איפוס הגדרות"
+
+#: include/install.php:42
+msgid "Accessibility Statement"
+msgstr "הצהרת נגישות לאתר"
+
+#~ msgid "Works"
+#~ msgstr "עובד"
